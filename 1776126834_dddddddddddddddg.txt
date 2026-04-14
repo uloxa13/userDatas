@@ -1,0 +1,150 @@
+{
+  "success": true,
+  "user": {
+    "loadFiles": [],
+    "guest": false,
+    "id": 115933253,
+    "login": "dddddddddddddddg",
+    "loginDisplay": "dddddddddddddddg",
+    "name": "dddddddddddddddg",
+    "accountType": 0,
+    "level": 0,
+    "premiumPoints": 0,
+    "experience": 0,
+    "experienceNextLevel": 1000,
+    "experiencePercents": 0,
+    "bonusExp": 40,
+    "premium": 0,
+    "startPoints": 3,
+    "spawnTimer": 0,
+    "discordLogged": false,
+    "access": 0,
+    "countryCode": "EG",
+    "specialCode": "PEPO",
+    "specialCodeBonus": 40,
+    "specialCodeValid": "2030-12-31 23:59:59",
+    "showPremiumOffer": true,
+    "skins": "pets,1,2,3",
+    "profileKey": "85460900bf56eef50e4cff4662872fb9",
+    "authData": {
+      "key": "ixyP6XPeTqsk9BmRrtFSffKIwyo6iVuEShSap2rktMab7xqIEPkeR58cUnCvOzxnN4/VuBTuAQ5kjNoEFtVbZavSCBpPPjkCJMPVmY/JQamaHhXrsi6QZhQlGEN5k4nD5++R6wwcX0Yq2V1UpKXANtVbvlAQ5AzvbdS+ICZ/Sd0hVfGXCTog2y/1ZACR0V2E7UYiKQGc9/Opggm7zowQqat/Gx8oLmt9FlM2jLon9tLm/o3JlSIi3exmgAkcQPXryk2WFz4cOt9rscIvJM/WwjLGgX6C9NtvBafSd06ONJW2ywQyS2mW6f38m90l/YY8WzOqrgmtUiSNuWtCcRn3ag==",
+      "iv": "uJWkOL5DdYgfFY55O03heA==",
+      "data": "SjwldV9Wu+xGjLaQ0/8RMm5LvIanvbx9mVdeo6A/abXTFgbOC/TEALdmeho8u84QdytEfglfhmYhXi4A6K1Lht254byDNbd+yZTPNbaAmmzj3rfGZxRpeUq4ZFFtmJlpc5IVs+Kjd7Rcy4C6IzfvHOtiFYQ2G3ZIYuqeSAl0AVI="
+    },
+    "hideFlag": true,
+    "selectedSkins": "evolution_effects:3,ghost:1,ghostlyReaper:0,pumpkinGhost:15,pets:4,grimReaper:1"
+  },
+  "dailyQuests": {
+    "1": {
+      "id": 375978006,
+      "type": 2,
+      "amount": 15,
+      "what": "",
+      "reward": 3750,
+      "progress": 0
+    },
+    "2": {
+      "id": 375978007,
+      "type": 4,
+      "amount": 1,
+      "what": "bat",
+      "reward": 1500,
+      "progress": 0
+    },
+    "3": {
+      "id": 375978008,
+      "type": 4,
+      "amount": 1,
+      "what": "ghostlyReaper",
+      "reward": 302500,
+      "progress": 0
+    }
+  },
+  "popups": [],
+  "challenge": {
+    "salt": "1776126812.0493-115933253-1f0b663464b4f51d588cde7ca9f637cb890d31fff6c1a6070ad00a37d5b53f5c",
+    "difficulty": 3
+  },
+  "servers": [
+    {
+      "name": "North-East Europe 1",
+      "ip": "wss://135-136-6-10.evoworld.io",
+      "port": "31820",
+      "location": "EUNE",
+      "players": 87,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 1",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "31820",
+      "location": "EUW",
+      "players": 109,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North America 1",
+      "ip": "wss://199-231-213-9.evoworld.io",
+      "port": "31800",
+      "location": "NA",
+      "players": 293,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North America 2",
+      "ip": "wss://199-231-213-9.evoworld.io",
+      "port": "31820",
+      "location": "NA",
+      "players": 117,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South America 1",
+      "ip": "wss://189-1-168-53.evoworld.io",
+      "port": "31820",
+      "location": "SA",
+      "players": 164,
+      "maxPlayers": 300
+    },
+    {
+      "name": "East Asia 1",
+      "ip": "wss://45-250-255-82.evoworld.io",
+      "port": "31820",
+      "location": "ASE",
+      "players": 56,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South-East Asia 1",
+      "ip": "wss://15-235-181-25.evoworld.io",
+      "port": "31820",
+      "location": "ASSE",
+      "players": 65,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South Asia 1",
+      "ip": "wss://148-113-47-158.evoworld.io",
+      "port": "31820",
+      "location": "ASS",
+      "players": 46,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Asia 1",
+      "ip": "wss://146-70-241-26.evoworld.io",
+      "port": "31820",
+      "location": "ASW",
+      "players": 48,
+      "maxPlayers": 300
+    },
+    {
+      "name": "Australia 1",
+      "ip": "wss://139-99-208-195.evoworld.io",
+      "port": "31820",
+      "location": "AUS",
+      "players": 73,
+      "maxPlayers": 300
+    }
+  ]
+}
