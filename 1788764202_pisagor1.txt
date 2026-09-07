@@ -1,0 +1,144 @@
+{
+  "success": true,
+  "user": {
+    "loadFiles": [],
+    "guest": false,
+    "id": 114690530,
+    "login": "pisagor1",
+    "loginDisplay": "pisagor1",
+    "name": "pisagor1",
+    "accountType": 0,
+    "level": 22,
+    "premiumPoints": 367,
+    "eventTickets": 0,
+    "experience": 98578947,
+    "experienceNextLevel": 128301100,
+    "experiencePercents": 76.8341,
+    "bonusExp": 310,
+    "premium": 1,
+    "premiumTime": "2026-09-11 06:04:53",
+    "startPoints": 3,
+    "spawnTimer": 0,
+    "discordLogged": false,
+    "access": 0,
+    "countryCode": "TR",
+    "specialCode": "Exposito",
+    "specialCodeBonus": 40,
+    "specialCodeValid": "2030-12-31 23:59:59",
+    "premiumBonus": 50,
+    "newEmail": "pisagorozat2@gmail.com",
+    "newEmailDate": "2026-10-16 06:20:10",
+    "showPremiumOffer": true,
+    "skins": "pets,1,2,3;ghost,4;ghostlyReaper,17;grimReaper,1",
+    "selectedSkins": "pets:1,ghost:4,grimReaper:1,ghostlyReaper:17",
+    "profileTheme": 0,
+    "profileKey": "594d8615d0f1b78c89b4672f96134f7c",
+    "authData": {
+      "key": "OGvWrmusUCde6jJMFXFfR+AQC2T0yCMhMv6pKEKgH1YEkb/Uzm2bKW6GxpmdKWMGg61TyzwKLNVSQgIjaG9e9meE2Zj6/Fht4h607R+Ir3gmlhE3JoeTesGFvIwdGgrwzya20N7vNcQqQp3Rxiuit3lGkumIx8kHLMxfpGLNPTldkSK1JeiXLYx0YmZbpVMEPkzA5TPqfpB53jIqqvzWfW7S5M13HvlKd480fOjwc3v17oCINVQRuuM8cxZ6vXH9CKFz4eVIv9jzOgrCXfFHBTJvs2FsLS42yDSUaUYLOI8KoeucuaZm/rqzbr8leQ8Zud+o7yXky+xyMmJGlcvwgw==",
+      "iv": "AHF3WsO2m/FAnzZPWve0jg==",
+      "data": "5u1bFeezQkTM4LGaMS9fO7lVEZMtKapOkvEDrSIuY2I3+U0+9uyQ2STo1BDaFkSgr5Pf3jNby5bsr/NsJszymjW+suwrZTtVTXnuUZNO6JJjSO0BMAJrfZwJHY2SC3QR7x9TUewGXdYjdOdfjFlPHeZJ6jSMU7jDTJmo7YNqw4nDWO7dkIFwVcKmbteokiLT76HamwR6TV5rzyjnk+//Cw=="
+    },
+    "hideFlag": true
+  },
+  "dailyQuests": {
+    "1": {
+      "startTime": 2159
+    },
+    "2": {
+      "id": 388197389,
+      "type": 1,
+      "amount": 1,
+      "what": "alienBigEye",
+      "reward": 1058000,
+      "progress": 0
+    },
+    "3": {
+      "startTime": 539
+    }
+  },
+  "popups": [
+    {
+      "id": 0,
+      "type": 11,
+      "parm": "pisagorozat2@gmail.com,2026-10-16 06:20:10"
+    }
+  ],
+  "challenge": {
+    "salt": "1788763105.9542-114690530-906b24f50d6fdb137bd6c232e1cd4cf6524f7e919a11de67c0a75671b2ef71c9",
+    "difficulty": 3
+  },
+  "servers": [
+    {
+      "name": "North-East Europe 1",
+      "ip": "wss://135-136-6-10.evoworld.io",
+      "port": "31840",
+      "location": "EUNE",
+      "players": 157,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Europe 1",
+      "ip": "wss://147-135-130-181.evoworld.io",
+      "port": "31840",
+      "location": "EUW",
+      "players": 168,
+      "maxPlayers": 300
+    },
+    {
+      "name": "North America 1",
+      "ip": "wss://199-231-213-9.evoworld.io",
+      "port": "31840",
+      "location": "NA",
+      "players": 122,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South America 1",
+      "ip": "wss://189-1-168-53.evoworld.io",
+      "port": "31840",
+      "location": "SA",
+      "players": 63,
+      "maxPlayers": 300
+    },
+    {
+      "name": "East Asia 1",
+      "ip": "wss://152-236-16-43.evoworld.io",
+      "port": "31840",
+      "location": "ASE",
+      "players": 98,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South-East Asia 1",
+      "ip": "wss://15-235-181-25.evoworld.io",
+      "port": "31840",
+      "location": "ASSE",
+      "players": 132,
+      "maxPlayers": 300
+    },
+    {
+      "name": "South Asia 1",
+      "ip": "wss://148-113-47-158.evoworld.io",
+      "port": "31840",
+      "location": "ASS",
+      "players": 63,
+      "maxPlayers": 300
+    },
+    {
+      "name": "West Asia 1",
+      "ip": "wss://146-70-241-26.evoworld.io",
+      "port": "31840",
+      "location": "ASW",
+      "players": 69,
+      "maxPlayers": 300
+    },
+    {
+      "name": "Australia 1",
+      "ip": "wss://139-99-208-195.evoworld.io",
+      "port": "31840",
+      "location": "AUS",
+      "players": 71,
+      "maxPlayers": 300
+    }
+  ]
+}
